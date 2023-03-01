@@ -1,0 +1,6 @@
+Here's the number of times the most active and least active bot (by inspection) has inspected a security.
+Most inspected: 34998
+Least inspected: 20000
+
+Remember that checking will be done with a different dataset.
+So make your code easily modifiable! Happy hacking!

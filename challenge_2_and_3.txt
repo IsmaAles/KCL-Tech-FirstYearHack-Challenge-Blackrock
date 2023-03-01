@@ -1,0 +1,24 @@
+Bot Ada:
+initial securities: 3, 4, 6
+Trading rule: If value of security divisible by 4, trade to bot Turing.
+  Otherwise trade to bot Alan.
+
+Bot Lovelace:
+initial securities: 8, 2
+Trading rule: If value of security divisible by 5, trade to bot Ada.
+  Otherwise trade to bot Turing.
+
+Bot Alan:
+initial securities: 5
+Trading rule: If value of security divisible by 3, trade to bot Anna.
+  Otherwise trade to bot Lovelace.
+
+Bot Turing:
+initial securities: 5, 7, 9
+Trading rule: If value of security divisible by 6, trade to bot Lovelace.
+  Otherwise trade to bot Anna.
+
+Bot Anna:
+initial securities: 7, 8, 9
+Trading rule: If value of security divisible by 2, trade to bot Alan.
+  Otherwise trade to bot Ada.
