@@ -20,6 +20,7 @@ For the second challenge we printed how many securities each bot inspected after
 
 The third challenge is the same as the second one except for five thousand rounds. Using the same code from the previous challange, the program freezes after 7 or 8 rounds. This is because, we kept squaring the same number in each round which beame exponentially more computationally expensive since the number kept becoming larger.
 To overcome this problem, we developed a solution involving prime factors such that we dont have to square it each time.
+- Output: Bot Alan: 34998, Bot Anna: 30001, Bot Ada: 24999, Bot Lovelace: 24994, Bot Turing: 20000
 
 
 Bonus Challange:
